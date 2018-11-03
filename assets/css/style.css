@@ -1,6 +1,24 @@
-h1
-width=960px
 
-body
-width: 495px
-text-align: center
+
+header {
+font-family: 'Georgia', Times, Times New Roman, serif;
+color: green;
+}
+
+h1{
+    float:left
+}
+
+body {
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+background-image: url("old_moon.png");
+}
+
+li a {
+float: right;
+
+}
+
+a {
+display: block;
+}
