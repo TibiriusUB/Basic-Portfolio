@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang:"en-US">
+
+<head>
+    <title>John Maguire</title>
+    <link rel=stylesheet type="text/css" href="assets/css/style.css">
+</head>
+
+<header>
+        <h1>John Maguire</h1>
+</header>
+<nav>
+    <ul>
+        <li><a href="index.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+    </ul>    
+</nav>
+
+<br>
+<!-- Commentary On/Off? -->
+<body>
+
+    <section>
+        <h2>About Me!</h2>
+        <hr>
+        
+    </section>
+    <article>
+        <p>This wil be bigger.</p>
+    </article>
+    <aside></aside>
+</body>
+
+<footer>
+
+</footer>
+</html>
